@@ -30,7 +30,6 @@ Te dejo aquí los atajos para que puedas verlas de forma más rápida:
 - [3. Agregar una moneda al listado](#agregar-una-moneda-al-listado)
 - [4. Eliminar una moneda del listado](#eliminar-una-moneda-del-listado)
 - [5. Ver tu historial de conversión de monedas](#ver-tu-historial-de-conversion-de-monedas)
-- [7. salir](#salir) 
     
 La app funciona con un listado de monedas para facilitar la interacción y ampliar las posibilidades de conversión de monedas. Este listado puede ser modificado a gusto del usuario.
 
