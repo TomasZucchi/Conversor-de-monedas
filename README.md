@@ -9,7 +9,7 @@ Funcionalidades de la app
 Preparación del ambiente
 
 Funcionalidades de la app
-En estas app te encuentras seis opciones (La ultima sale como 7 por propositos de la app misma, fue a proposito jeje):
+En estas app te encuentras seis opciones (La ultima sale como 7 por propositos de la app misma, fue a proposito):
 
 1. [Hacer conversión de moneda](#hacer-conversion-de-moneda).
 2. Ver listado actual de monedas.
