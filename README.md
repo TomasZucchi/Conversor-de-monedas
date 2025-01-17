@@ -135,5 +135,4 @@ Para la ejecución de la app es necesario seguir los pasos que te presento a con
 
 - Finalmente, añades tu api-key en el apartado de variables de entorno con el nombre de la variable: `EXCHANGE-API-KEY` y seleccionas `OK`.
 
-### salir
 
